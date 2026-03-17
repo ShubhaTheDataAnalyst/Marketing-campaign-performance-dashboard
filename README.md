@@ -49,7 +49,10 @@ The dataset includes:
 ---
 ## Screenshot
 <img width="605" height="339" alt="Screenshot 2026-03-17 120130" src="https://github.com/user-attachments/assets/7d0c6e99-aa2a-43df-a93c-2240eab94c9b" />
+
 ---
+
+
 ## 🔍 Key Insights
 - Email campaigns show higher conversion rates than social media  
 - Paid ads generate higher traffic but lower ROI in some cases  
