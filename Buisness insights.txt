@@ -1,0 +1,92 @@
+1️⃣ Campaign Performance Overview
+
+Which campaign generated the highest conversions
+
+Campaigns with highest ROI
+
+Campaigns that are underperforming
+
+Insight Example:
+“Email campaign generated the highest conversion rate compared to social media campaigns.”
+
+2️⃣ Customer Engagement
+
+Click-Through Rate (CTR)
+
+Open Rate (for email campaigns)
+
+Engagement rate across channels
+
+Insight Example:
+“Social media campaigns have high engagement but lower conversion compared to search campaigns.”
+
+3️⃣ Conversion Analysis
+
+Total conversions
+
+Conversion rate by campaign
+
+Conversion by marketing channel
+
+Insight Example:
+“Google Ads campaigns convert better than Facebook Ads for high-value customers.”
+
+4️⃣ Cost vs Revenue
+
+Cost per Acquisition (CPA)
+
+Campaign spend vs revenue generated
+
+Return on Ad Spend (ROAS)
+
+Insight Example:
+“Campaign A has the lowest CPA, making it the most cost-effective campaign.”
+
+5️⃣ Customer Segment Insights
+
+Performance by age group
+
+Performance by location
+
+Performance by device (mobile vs desktop)
+
+Insight Example:
+“Customers aged 25–34 have the highest conversion rate.”
+
+6️⃣ Time-Based Performance
+
+Performance by month / week
+
+Best performing days
+
+Seasonal trends
+
+Insight Example:
+“Campaign performance increases during weekends.”
+
+7️⃣ Channel Performance
+
+Compare channels:
+
+Email
+
+Social Media
+
+Paid Ads
+
+Organic Search
+
+Insight Example:
+“Organic traffic drives the highest revenue with the lowest marketing cost.”
+
+8️⃣ Actionable Recommendations
+
+Every dashboard should end with business recommendations.
+
+Examples:
+
+Increase budget for high ROI campaigns
+
+Optimize low-performing ads
+
+Focus on high-converting customer segments
